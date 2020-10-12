@@ -1,25 +1,22 @@
 package edu.wit.cs.comp1000;
 
 /*********************************************************************
-*	Lab 5 - PA4b
+*	Lab 6 - PA4b
 *	YOUR NAME HERE
 *
-*	COMP1000-XX  (ENTER YOUR SESSION, EITHER 09/10 or 11/12)
-*	10/04/2019  (UPDATE THE DATE) 
+*	COMP1000-XX  (XX is your session number)
+*	MM/DD/YYYY  (UPDATE THE DATE) 
 **********************************************************************
-*	Problem Description
+*	Problem Description (UPDATE THE DESCRIPTION)
 *
 *	Write a program that reads two numbers from the user and
-*	prints out the sum of those two numbers. (UPDATE THE DESCRIPTION)
-*
-***********************************************************************
-*	Analysis
+*	prints out the sum of those two numbers. 
+************************************************************************
+*	Analysis (UPDATE INPUTS and OUTPUTS)
 *
 *	Inputs:  Two integers, read from the user.
-*
 *	Outputs: The sum of the inputs.
-*
-**********************************************************************/
+***********************************************************************/
 
 public class PA4b {
 
